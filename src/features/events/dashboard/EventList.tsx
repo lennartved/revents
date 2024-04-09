@@ -1,5 +1,4 @@
 import EventListItem from "./EventListItem";
-
 export default function EventList(props: any) {
   return (
     <>
